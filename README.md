@@ -3,7 +3,6 @@ Pre-reqs:
 - VS Code
 
 Project Environment:
-- VS Code
 - Used starter folder (included in the course)
 
 Take Aways:
