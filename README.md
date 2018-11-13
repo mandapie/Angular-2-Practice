@@ -12,4 +12,4 @@ Take Aways:
   - tsconfig.json converts TypeScript into JavaScript.
 - learned what to include into app.module.ts file:
   - what should be in `declarations`, `imports`, `bootstrap`
-- learned interpolation, binding, Pipe
+- learned interpolation, binding, Pipe, basic Structural Directives (`*ngIf` and `*ngFor`)
